@@ -1,0 +1,16 @@
+current directory: /Users/suzukitakahiro/workspace/runteq/genba_rails/scaffold_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/suzukitakahiro/.rbenv/versions/2.6.8/bin/ruby -I /Users/suzukitakahiro/.rbenv/versions/2.6.8/lib/ruby/2.6.0 -r ./siteconf20220302-6717-1dxn65x.rb extconf.rb
+creating Makefile
+
+current directory: /Users/suzukitakahiro/workspace/runteq/genba_rails/scaffold_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/suzukitakahiro/workspace/runteq/genba_rails/scaffold_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: ignoring file /Users/suzukitakahiro/.rbenv/versions/2.6.8/lib/libruby.2.6.dylib, building for macOS-x86_64 but attempting to link with file built for macOS-arm64
+
+current directory: /Users/suzukitakahiro/workspace/runteq/genba_rails/scaffold_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20220302-6717-sg1jkf
